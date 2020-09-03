@@ -1,0 +1,13 @@
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true  
+github:
+  is_project_page: false
+ 
+title: Phonetic Posteriorgrams based Many-to-Many Singing Voice Conversion viaAdversarial Training
+description:
+  Anonymous Authors <br>
+  Anonymous Affiliations
