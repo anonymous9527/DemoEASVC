@@ -18,13 +18,19 @@ These models are presented:
 
 ### Male to male
 
-#### Use original pitch
-
 <table align="center">
-    <tr><th>Source</th><th>Target</th><th>WaveNet</th><th>C-SVC</th><th>EA-SVC</th></tr>
+    <tr><th>Source</th><th>Target</th></tr>
     <tr>
         <td><audio controls style="width: 150px;"><source src="sample/source/jmlongspk001312-jmlongsong001312-0.wav"></audio></td>
         <td><audio controls style="width: 150px;"><source src="sample/target/125835260_120691_3.wav"></audio></td>
+    </tr>
+</table>
+
+#### Use original pitch
+
+<table align="center">
+    <tr><th>WaveNet</th><th>C-SVC</th><th>EA-SVC</th></tr>
+    <tr>
         <td><audio controls style="width: 150px;"><source src=""></audio></td>
         <td><audio controls style="width: 150px;"><source src=""></audio></td>
         <td><audio controls style="width: 150px;"><source src="sample/ea-svc/jmlongspk000501-jmlongsong000501-0_0_125835260_120691_3.wav"></audio></td>
@@ -34,10 +40,8 @@ These models are presented:
 #### Use shifted pitch
 
 <table align="center">
-    <tr><th>Source</th><th>Target</th><th>WaveNet</th><th>C-SVC</th><th>EA-SVC</th></tr>
+    <tr><th>WaveNet</th><th>C-SVC</th><th>EA-SVC</th></tr>
     <tr>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
         <td><audio controls style="width: 150px;"><source src=""></audio></td>
         <td><audio controls style="width: 150px;"><source src=""></audio></td>
         <td><audio controls style="width: 150px;"><source src=""></audio></td>
