@@ -31,9 +31,9 @@ These models are presented:
 <table align="center">
     <tr><th>WaveNet</th><th>C-SVC</th><th>EA-SVC</th></tr>
     <tr>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src="sample/ea-svc/jmlongspk000501-jmlongsong000501-0_0_125835260_120691_3.wav"></audio></td>
+        <td><audio controls style="width: 150px;"><source src="sample/wavenet/jmlongspk001312-jmlongsong001312-0_0_125835260_120691_3.wav"></audio></td>
+        <td><audio controls style="width: 150px;"><source src="sample/c-svc/jmlongspk001312-jmlongsong001312-0_0_125835260_120691_3.wav"></audio></td>
+        <td><audio controls style="width: 150px;"><source src="sample/ea-svc/jmlongspk001312-jmlongsong001312-0_0_125835260_120691_3.wav"></audio></td>
     </tr>
 </table>
 
@@ -42,116 +42,130 @@ These models are presented:
 <table align="center">
     <tr><th>WaveNet</th><th>C-SVC</th><th>EA-SVC</th></tr>
     <tr>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
+        <td><audio controls style="width: 150px;"><source src="sample/wavenet/jmlongspk001312-jmlongsong001312-0_1_125835260_120691_3.wav"></audio></td>
+        <td><audio controls style="width: 150px;"><source src="sample/c-svc/jmlongspk001312-jmlongsong001312-0_1_125835260_120691_3.wav"></audio></td>
+        <td><audio controls style="width: 150px;"><source src="sample/ea-svc/jmlongspk001312-jmlongsong001312-0_1_125835260_120691_3.wav"></audio></td>
     </tr>
 </table>
-
-### Male to female
-
-#### Use original pitch
-
-<table align="center">
-    <tr><th>Source</th><th>Target</th><th>WaveNet</th><th>C-SVC</th><th>EA-SVC</th></tr>
-    <tr>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-    </tr>
-</table>
-
-#### Use shifted pitch
-
-<table align="center">
-    <tr><th>Source</th><th>Target</th><th>WaveNet</th><th>C-SVC</th><th>EA-SVC</th></tr>
-    <tr>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-    </tr>
-</table>
-
-### Female to female
-
-#### Use original pitch
-
-<table align="center">
-    <tr><th>Source</th><th>Target</th><th>WaveNet</th><th>C-SVC</th><th>EA-SVC</th></tr>
-    <tr>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-    </tr>
-</table>
-
-#### Use shifted pitch
-
-<table align="center">
-    <tr><th>Source</th><th>Target</th><th>WaveNet</th><th>C-SVC</th><th>EA-SVC</th></tr>
-    <tr>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-    </tr>
-</table>
-
-### Female to male
-
-#### Use original pitch
-
-<table align="center">
-    <tr><th>Source</th><th>Target</th><th>WaveNet</th><th>C-SVC</th><th>EA-SVC</th></tr>
-    <tr>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-    </tr>
-</table>
-
-#### Use shifted pitch
-
-<table align="center">
-    <tr><th>Source</th><th>Target</th><th>WaveNet</th><th>C-SVC</th><th>EA-SVC</th></tr>
-    <tr>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-    </tr>
-</table>
-
-
-## Timbre Transfer
 
 ### Male to female
 
 <table align="center">
     <tr><th>Source</th><th>Target</th></tr>
     <tr>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
+        <td><audio controls style="width: 150px;"><source src="sample/source/jmlongspk000501-jmlongsong000501-0.wav"></audio></td>
+        <td><audio controls style="width: 150px;"><source src="sample/target/220313220_2457204_3.wav"></audio></td>
     </tr>
 </table>
+
+#### Use original pitch
+
+<table align="center">
+    <tr><th>WaveNet</th><th>C-SVC</th><th>EA-SVC</th></tr>
+    <tr>
+        <td><audio controls style="width: 150px;"><source src="sample/wavenet/jmlongspk000501-jmlongsong000501-0_0_220313220_2457204_3.wav"></audio></td>
+        <td><audio controls style="width: 150px;"><source src="sample/c-svc/jmlongspk000501-jmlongsong000501-0_0_220313220_2457204_3.wav"></audio></td>
+        <td><audio controls style="width: 150px;"><source src="sample/ea-svc/jmlongspk000501-jmlongsong000501-0_0_220313220_2457204_3.wav"></audio></td>
+    </tr>
+</table>
+
+#### Use shifted pitch
+
+<table align="center">
+    <tr><th>WaveNet</th><th>C-SVC</th><th>EA-SVC</th></tr>
+    <tr>
+        <td><audio controls style="width: 150px;"><source src="sample/wavenet/jmlongspk000501-jmlongsong000501-0_1_220313220_2457204_3.wav"></audio></td>
+        <td><audio controls style="width: 150px;"><source src="sample/c-svc/jmlongspk000501-jmlongsong000501-0_1_220313220_2457204_3.wav"></audio></td>
+        <td><audio controls style="width: 150px;"><source src="sample/ea-svc/jmlongspk000501-jmlongsong000501-0_1_220313220_2457204_3.wav"></audio></td>
+    </tr>
+</table>
+
+### Female to female
+
+<table align="center">
+    <tr><th>Source</th><th>Target</th></tr>
+    <tr>
+        <td><audio controls style="width: 150px;"><source src="sample/source/jmlongspk000002-jmlongsong000002-0.wav"></audio></td>
+        <td><audio controls style="width: 150px;"><source src="sample/target/107780550_4460473_3.wav"></audio></td>
+    </tr>
+</table>
+
+#### Use original pitch
+
+<table align="center">
+    <tr><th>WaveNet</th><th>C-SVC</th><th>EA-SVC</th></tr>
+    <tr>
+        <td><audio controls style="width: 150px;"><source src="sample/wavenet/jmlongspk000002-jmlongsong000002-0_0_107780550_4460473_3.wav"></audio></td>
+        <td><audio controls style="width: 150px;"><source src="sample/c-svc/jmlongspk000002-jmlongsong000002-0_0_107780550_4460473_3.wav"></audio></td>
+        <td><audio controls style="width: 150px;"><source src="sample/ea-svc/jmlongspk000002-jmlongsong000002-0_0_107780550_4460473_3.wav"></audio></td>
+    </tr>
+</table>
+
+#### Use shifted pitch
+
+<table align="center">
+    <tr><th>WaveNet</th><th>C-SVC</th><th>EA-SVC</th></tr>
+    <tr>
+        <td><audio controls style="width: 150px;"><source src="sample/wavenet/jmlongspk000002-jmlongsong000002-0_1_107780550_4460473_3.wav"></audio></td>
+        <td><audio controls style="width: 150px;"><source src="sample/c-svc/jmlongspk000002-jmlongsong000002-0_1_107780550_4460473_3.wav"></audio></td>
+        <td><audio controls style="width: 150px;"><source src="sample/ea-svc/jmlongspk000002-jmlongsong000002-0_1_107780550_4460473_3.wav"></audio></td>
+    </tr>
+</table>
+
+### Female to male
+
+<table align="center">
+    <tr><th>Source</th><th>Target</th></tr>
+    <tr>
+        <td><audio controls style="width: 150px;"><source src="sample/source/jmlongspk001419-jmlongsong001419-0.wav"></audio></td>
+        <td><audio controls style="width: 150px;"><source src="sample/target/177857410_316_0.wav"></audio></td>
+    </tr>
+</table>
+
+#### Use original pitch
+
+<table align="center">
+    <tr><th>WaveNet</th><th>C-SVC</th><th>EA-SVC</th></tr>
+    <tr>
+        <td><audio controls style="width: 150px;"><source src="sample/wavenet/jmlongspk001419-jmlongsong001419-0_0_177857410_316_0.wav"></audio></td>
+        <td><audio controls style="width: 150px;"><source src="sample/c-svc/jmlongspk001419-jmlongsong001419-0_0_177857410_316_0.wav"></audio></td>
+        <td><audio controls style="width: 150px;"><source src="sample/ea-svc/jmlongspk001419-jmlongsong001419-0_0_177857410_316_0.wav"></audio></td>
+    </tr>
+</table>
+
+#### Use shifted pitch
+
+<table align="center">
+    <tr><th>WaveNet</th><th>C-SVC</th><th>EA-SVC</th></tr>
+    <tr>
+        <td><audio controls style="width: 150px;"><source src="sample/wavenet/jmlongspk001419-jmlongsong001419-0_1_177857410_316_0.wav"></audio></td>
+        <td><audio controls style="width: 150px;"><source src="sample/c-svc/jmlongspk001419-jmlongsong001419-0_1_177857410_316_0.wav"></audio></td>
+        <td><audio controls style="width: 150px;"><source src="sample/ea-svc/jmlongspk001419-jmlongsong001419-0_1_177857410_316_0.wav"></audio></td>
+    </tr>
+</table>
+
+## Timbre Transfer
 
 <table align="center">
     <tr><th>alpha = 0</th><th>alpha = 0.25</th><th>alpha = 0.5</th><th>alpha = 0.75</th><th>alpha = 1.0</th></tr>
     <tr>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
-        <td><audio controls style="width: 150px;"><source src=""></audio></td>
+        <td><audio controls style="width: 100px;"><source src="sample/timbre/000.wav"></audio></td>
+        <td><audio controls style="width: 100px;"><source src="sample/timbre/025.wav"></audio></td>
+        <td><audio controls style="width: 100px;"><source src="sample/timbre/050.wav"></audio></td>
+        <td><audio controls style="width: 100px;"><source src="sample/timbre/075.wav"></audio></td>
+        <td><audio controls style="width: 100px;"><source src="sample/timbre/100.wav"></audio></td>
+    </tr>
+</table>
+
+## Pitch Control
+
+<table align="center">
+    <tr><th>alpha = 0.5</th><th>alpha = 0.8</th><th>alpha = 1.0</th><th>alpha = 1.2</th><th>alpha = 1.5</th></tr>
+    <tr>
+        <td><audio controls style="width: 100px;"><source src="sample/pitch/05.wav"></audio></td>
+        <td><audio controls style="width: 100px;"><source src="sample/pitch/08.wav"></audio></td>
+        <td><audio controls style="width: 100px;"><source src="sample/pitch/10.wav"></audio></td>
+        <td><audio controls style="width: 100px;"><source src="sample/pitch/12.wav"></audio></td>
+        <td><audio controls style="width: 100px;"><source src="sample/pitch/15.wav"></audio></td>
     </tr>
 </table>
